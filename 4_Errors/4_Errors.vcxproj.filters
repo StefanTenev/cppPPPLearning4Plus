@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="follow_along.cpp">
+      <Filter>FollowAlong</Filter>
+    </ClCompile>
+    <ClCompile Include="exercises.cpp">
+      <Filter>Exercises</Filter>
+    </ClCompile>
+    <ClCompile Include="drill.cpp">
+      <Filter>Drill</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Drill">
+      <UniqueIdentifier>{0331e9cb-37b7-43ef-8b06-212245f06b4b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FollowAlong">
+      <UniqueIdentifier>{c35a90cd-047b-4b7f-8e6d-cd6c7bf7ebd5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Exercises">
+      <UniqueIdentifier>{562cd304-4aa4-473a-a7dd-fbf46b319175}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\theTruth\\wave1\\C_plus_plus\\cppPPPLearning\\cppPPPLearning4Plus\\4_Errors\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{407A2317-AE08-4A87-B38D-7FAEF0D9CD77}|4_Errors.vcxproj|C:\\Users\\HP\\Desktop\\theTruth\\wave1\\C_plus_plus\\cppPPPLearning\\cppPPPLearning4Plus\\4_Errors\\Exercises.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{407A2317-AE08-4A87-B38D-7FAEF0D9CD77}|4_Errors.vcxproj|solutionrelative:Exercises.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{407A2317-AE08-4A87-B38D-7FAEF0D9CD77}|4_Errors.vcxproj|C:\\Users\\HP\\Desktop\\theTruth\\wave1\\C_plus_plus\\cppPPPLearning\\cppPPPLearning4Plus\\4_Errors\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{407A2317-AE08-4A87-B38D-7FAEF0D9CD77}|4_Errors.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{407A2317-AE08-4A87-B38D-7FAEF0D9CD77}|4_Errors.vcxproj|C:\\Users\\HP\\Desktop\\theTruth\\wave1\\C_plus_plus\\cppPPPLearning\\cppPPPLearning4Plus\\4_Errors\\drill.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{407A2317-AE08-4A87-B38D-7FAEF0D9CD77}|4_Errors.vcxproj|solutionrelative:drill.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{407A2317-AE08-4A87-B38D-7FAEF0D9CD77}|4_Errors.vcxproj|C:\\Users\\HP\\Desktop\\theTruth\\wave1\\C_plus_plus\\cppPPPLearning\\cppPPPLearning4Plus\\4_Errors\\follow_along.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{407A2317-AE08-4A87-B38D-7FAEF0D9CD77}|4_Errors.vcxproj|solutionrelative:follow_along.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "drill.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\theTruth\\wave1\\C_plus_plus\\cppPPPLearning\\cppPPPLearning4Plus\\4_Errors\\drill.cpp",
+              "RelativeDocumentMoniker": "drill.cpp",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\theTruth\\wave1\\C_plus_plus\\cppPPPLearning\\cppPPPLearning4Plus\\4_Errors\\drill.cpp",
+              "RelativeToolTip": "drill.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-09T10:54:34.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "exercises.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\theTruth\\wave1\\C_plus_plus\\cppPPPLearning\\cppPPPLearning4Plus\\4_Errors\\exercises.cpp",
+              "RelativeDocumentMoniker": "exercises.cpp",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\theTruth\\wave1\\C_plus_plus\\cppPPPLearning\\cppPPPLearning4Plus\\4_Errors\\exercises.cpp",
+              "RelativeToolTip": "exercises.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-09T10:54:21.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "follow_along.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\theTruth\\wave1\\C_plus_plus\\cppPPPLearning\\cppPPPLearning4Plus\\4_Errors\\follow_along.cpp",
+              "RelativeDocumentMoniker": "follow_along.cpp",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\theTruth\\wave1\\C_plus_plus\\cppPPPLearning\\cppPPPLearning4Plus\\4_Errors\\follow_along.cpp",
+              "RelativeToolTip": "follow_along.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-09T10:53:39.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\theTruth\\wave1\\C_plus_plus\\cppPPPLearning\\cppPPPLearning4Plus\\4_Errors\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\theTruth\\wave1\\C_plus_plus\\cppPPPLearning\\cppPPPLearning4Plus\\4_Errors\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-09T10:44:08.188Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
