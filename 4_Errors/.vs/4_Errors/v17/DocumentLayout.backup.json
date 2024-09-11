@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\theTruth\\wave1\\C_plus_plus\\cppPPPLearning\\cppPPPLearning4Plus\\4_Errors\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{407A2317-AE08-4A87-B38D-7FAEF0D9CD77}|4_Errors.vcxproj|C:\\Users\\HP\\Desktop\\theTruth\\wave1\\C_plus_plus\\cppPPPLearning\\cppPPPLearning4Plus\\4_Errors\\Exercises.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{407A2317-AE08-4A87-B38D-7FAEF0D9CD77}|4_Errors.vcxproj|solutionrelative:Exercises.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{407A2317-AE08-4A87-B38D-7FAEF0D9CD77}|4_Errors.vcxproj|C:\\Users\\HP\\Desktop\\theTruth\\wave1\\C_plus_plus\\cppPPPLearning\\cppPPPLearning4Plus\\4_Errors\\exercises.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{407A2317-AE08-4A87-B38D-7FAEF0D9CD77}|4_Errors.vcxproj|solutionrelative:exercises.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{407A2317-AE08-4A87-B38D-7FAEF0D9CD77}|4_Errors.vcxproj|C:\\Users\\HP\\Desktop\\theTruth\\wave1\\C_plus_plus\\cppPPPLearning\\cppPPPLearning4Plus\\4_Errors\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -42,8 +42,7 @@
               "RelativeToolTip": "drill.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-09T10:54:34.562Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T10:54:34.562Z"
             },
             {
               "$type": "Document",
@@ -53,7 +52,7 @@
               "RelativeDocumentMoniker": "exercises.cpp",
               "ToolTip": "C:\\Users\\HP\\Desktop\\theTruth\\wave1\\C_plus_plus\\cppPPPLearning\\cppPPPLearning4Plus\\4_Errors\\exercises.cpp",
               "RelativeToolTip": "exercises.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-09T10:54:21.963Z",
               "EditorCaption": ""
@@ -68,8 +67,7 @@
               "RelativeToolTip": "follow_along.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-09T10:53:39.885Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T10:53:39.885Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-09T10:44:08.188Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T10:44:08.188Z"
             }
           ]
         }
