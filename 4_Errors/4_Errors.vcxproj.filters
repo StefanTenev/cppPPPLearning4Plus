@@ -22,5 +22,16 @@
     <Filter Include="Exercises">
       <UniqueIdentifier>{562cd304-4aa4-473a-a7dd-fbf46b319175}</UniqueIdentifier>
     </Filter>
+    <Filter Include="PPPLibs">
+      <UniqueIdentifier>{960e03e3-8c5d-4102-b587-197437587933}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="PPP_support.h">
+      <Filter>PPPLibs</Filter>
+    </ClInclude>
+    <ClInclude Include="PPPheaders.h">
+      <Filter>PPPLibs</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
