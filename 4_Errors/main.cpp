@@ -4,7 +4,7 @@
 
 int main()
 {
-    follow_along();
-
+    // follow_along();
+    cout << drill();
     return 0;
 }
