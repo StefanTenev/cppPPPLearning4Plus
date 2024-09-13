@@ -1,0 +1,36 @@
+﻿  Cleaning remote project directory
+  Validating sources
+  Copying sources remotely to '172.26.72.68'
+  Validating architecture
+  Validating architecture
+  Starting remote build
+  Compiling sources:
+  drill.cpp
+C:\Users\HP\Desktop\theTruth\wave1\C_plus_plus\cppPPPLearning\cppPPPLearning4Plus\4_Errors\drill.cpp(2,13): warning : ‘void drill()’ defined but not used [-Wunused-function]
+C:\Users\HP\Desktop\theTruth\wave1\C_plus_plus\cppPPPLearning\cppPPPLearning4Plus\4_Errors\drill.cpp(2,13): warning :     2 | static void drill() {
+C:\Users\HP\Desktop\theTruth\wave1\C_plus_plus\cppPPPLearning\cppPPPLearning4Plus\4_Errors\drill.cpp(2,13): warning :       |             ^~~~~
+  exercises.cpp
+C:\Users\HP\Desktop\theTruth\wave1\C_plus_plus\cppPPPLearning\cppPPPLearning4Plus\4_Errors\exercises.cpp(2,13): warning : ‘void exercises()’ defined but not used [-Wunused-function]
+C:\Users\HP\Desktop\theTruth\wave1\C_plus_plus\cppPPPLearning\cppPPPLearning4Plus\4_Errors\exercises.cpp(2,13): warning :     2 | static void exercises() {
+C:\Users\HP\Desktop\theTruth\wave1\C_plus_plus\cppPPPLearning\cppPPPLearning4Plus\4_Errors\exercises.cpp(2,13): warning :       |             ^~~~~~~~~
+  follow_along.cpp
+C:\Users\HP\Desktop\theTruth\wave1\C_plus_plus\cppPPPLearning\cppPPPLearning4Plus\4_Errors\follow_along.cpp(13,33): warning : integer overflow in expression of type ‘long int’ results in ‘-9223372036709301616’ [-Woverflow]
+C:\Users\HP\Desktop\theTruth\wave1\C_plus_plus\cppPPPLearning\cppPPPLearning4Plus\4_Errors\follow_along.cpp(37,32): warning : conversion from ‘std::uniform_int_distribution<int>::result_type’ {aka ‘int’} to ‘char’ may change value [-Wconversion]
+C:\Users\HP\Desktop\theTruth\wave1\C_plus_plus\cppPPPLearning\cppPPPLearning4Plus\4_Errors\follow_along.cpp(37,32): warning :    37 |                 ch = letterDist(engine);
+C:\Users\HP\Desktop\theTruth\wave1\C_plus_plus\cppPPPLearning\cppPPPLearning4Plus\4_Errors\follow_along.cpp(37,32): warning :       |                      ~~~~~~~~~~^~~~~~~~
+C:\Users\HP\Desktop\theTruth\wave1\C_plus_plus\cppPPPLearning\cppPPPLearning4Plus\4_Errors\follow_along.cpp(6,13): warning : ‘void follow_along()’ defined but not used [-Wunused-function]
+C:\Users\HP\Desktop\theTruth\wave1\C_plus_plus\cppPPPLearning\cppPPPLearning4Plus\4_Errors\follow_along.cpp(6,13): warning :     6 | static void follow_along() {
+C:\Users\HP\Desktop\theTruth\wave1\C_plus_plus\cppPPPLearning\cppPPPLearning4Plus\4_Errors\follow_along.cpp(6,13): warning :       |             ^~~~~~~~~~~~
+  main.cpp
+C:\Users\HP\Desktop\theTruth\wave1\C_plus_plus\cppPPPLearning\cppPPPLearning4Plus\4_Errors\follow_along.cpp(13,33): warning : integer overflow in expression of type ‘long int’ results in ‘-9223372036709301616’ [-Woverflow]
+C:\Users\HP\Desktop\theTruth\wave1\C_plus_plus\cppPPPLearning\cppPPPLearning4Plus\4_Errors\follow_along.cpp(37,32): warning : conversion from ‘std::uniform_int_distribution<int>::result_type’ {aka ‘int’} to ‘char’ may change value [-Wconversion]
+C:\Users\HP\Desktop\theTruth\wave1\C_plus_plus\cppPPPLearning\cppPPPLearning4Plus\4_Errors\follow_along.cpp(37,32): warning :    37 |                 ch = letterDist(engine);
+C:\Users\HP\Desktop\theTruth\wave1\C_plus_plus\cppPPPLearning\cppPPPLearning4Plus\4_Errors\follow_along.cpp(37,32): warning :       |                      ~~~~~~~~~~^~~~~~~~
+C:\Users\HP\Desktop\theTruth\wave1\C_plus_plus\cppPPPLearning\cppPPPLearning4Plus\4_Errors\exercises.cpp(2,13): warning : ‘void exercises()’ defined but not used [-Wunused-function]
+C:\Users\HP\Desktop\theTruth\wave1\C_plus_plus\cppPPPLearning\cppPPPLearning4Plus\4_Errors\exercises.cpp(2,13): warning :     2 | static void exercises() {
+C:\Users\HP\Desktop\theTruth\wave1\C_plus_plus\cppPPPLearning\cppPPPLearning4Plus\4_Errors\exercises.cpp(2,13): warning :       |             ^~~~~~~~~
+C:\Users\HP\Desktop\theTruth\wave1\C_plus_plus\cppPPPLearning\cppPPPLearning4Plus\4_Errors\drill.cpp(2,13): warning : ‘void drill()’ defined but not used [-Wunused-function]
+C:\Users\HP\Desktop\theTruth\wave1\C_plus_plus\cppPPPLearning\cppPPPLearning4Plus\4_Errors\drill.cpp(2,13): warning :     2 | static void drill() {
+C:\Users\HP\Desktop\theTruth\wave1\C_plus_plus\cppPPPLearning\cppPPPLearning4Plus\4_Errors\drill.cpp(2,13): warning :       |             ^~~~~
+  Linking objects
+  4_Errors.vcxproj -> C:\Users\HP\Desktop\theTruth\wave1\C_plus_plus\cppPPPLearning\cppPPPLearning4Plus\4_Errors\bin\x64\Debug\4_Errors.out
