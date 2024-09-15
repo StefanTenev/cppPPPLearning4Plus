@@ -37,23 +37,23 @@ namespace PPP {
 
 
 
-	class Checked_string : public std::string {	// trivially range-checked string (no iterator checking)
-	public:
-		using std::string::string;
+	//class Checked_string : public std::string {	// trivially range-checked string (no iterator checking)
+	//public:
+	//	using std::string::string;
 
-		char& operator[](size_t i)
-		{
-			std::cerr << "PPP::string::[]\n";
-			return this->std::string::at(i);
-		}
+	//	char& operator[](size_t i)
+	//	{
+	//		std::cerr << "PPP::string::[]\n";
+	//		return this->std::string::at(i);
+	//	}
 
-		const char& operator[](size_t i) const
-		{
-			std::cerr << "PPP::string::[] const\n";
-			return this->std::string::at(i);
-		}
-		// ... 
-	}; // range-checked string
+	//	const char& operator[](size_t i) const
+	//	{
+	//		std::cerr << "PPP::string::[] const\n";
+	//		return this->std::string::at(i);
+	//	}
+	//	// ... 
+	//}; // range-checked string
 
 	template<Element T>
 	class Checked_span : public std::span<T> { // range-checked span -- use gsl::span?
@@ -180,10 +180,10 @@ namespace PPP {
 #undef max
 
 
-template<> struct std::hash<PPP::Checked_string>
-{
-	size_t operator()(const PPP::Checked_string& s) const
-	{
-		return hash<std::string>()(s);
-	}
-};
+//template<> struct std::hash<PPP::Checked_string>
+//{
+//	size_t operator()(const PPP::Checked_string& s) const
+//	{
+//		return hash<std::string>()(s);
+//	}
+//};
