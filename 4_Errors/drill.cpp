@@ -1,4 +1,6 @@
 ﻿#include "PPPheaders.h"
+#include <string>
+#include <vector>
 
 static int drill() {
 	try{
@@ -130,7 +132,7 @@ static int drill() {
 		*/
 
 		// 12 - with errors: string s = "ape"; if (s+"fool") cout < "Success!\n";
-		string s = "ape"; 
+		std::string s = "ape"; 
 		if (s == "fool") 
 			cout << "Success12!\n";
 		
@@ -145,7 +147,7 @@ static int drill() {
 			cout << "Success14!\n";
 
 		// 15 - with errors: string s = "Success!\n"; for (int i = 0; i<6; ++i) cout << s[i];
-		string s15 = "Success15!\n"; 
+		std::string s15 = "Success15!\n"; 
 		for (int i = 0; i < s15.size(); ++i) 
 			cout << s15[i];
 		cout << '\n';
@@ -162,7 +164,7 @@ static int drill() {
 			cout << "Success17!\n";
 
 		// 18 - with errors: string s = "Success!\n"; for (int i = 0; i<10; ++i) cout << s[i];
-		string s18 = "Success18!\n"; 
+		std::string s18 = "Success18!\n"; 
 		for (int i = 0; i < s18.size(); ++i) 
 			cout << s18[i];
 		cout << '\n';
@@ -188,7 +190,7 @@ static int drill() {
 			cout << "Success21!\n";
 
 		// 22 = with errors: string<char> s = "Success!\n"; for (int i = 0; i<=10; ++i) cout << s[i];
-		string s22 = "Success22!\n"; 
+		std::string s22 = "Success22!\n"; 
 		for (int i = 0; i < s22.size(); ++i) 
 			cout << s22[i];
 

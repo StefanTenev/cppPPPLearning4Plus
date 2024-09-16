@@ -5,6 +5,7 @@
 int main()
 {
     // follow_along();
-    cout << drill();
+    // cout << drill();
+    exercises();
     return 0;
 }
