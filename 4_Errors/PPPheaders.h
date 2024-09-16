@@ -2,7 +2,6 @@
 
 #include<iostream>
 #include <sstream>
-#include<vector>
 #include<span>
 #include<stdexcept>
 #include<random>
@@ -23,7 +22,7 @@ using namespace PPP;
 
 
 // disgusting macro hack to get a range checking:
-#define vector Checked_vector
+//#define vector Checked_vector
 //#define string Checked_string
 #define span Checked_span
 
